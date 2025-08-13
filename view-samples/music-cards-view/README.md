@@ -6,7 +6,7 @@ Overview of Music Cards
 ![screenshot of the sample](./assets/music_cards_view.png)
 
 Playing video
-<img src="./assets/music_cards_view2.png" width="70%">
+![screenshot of the sample](./assets/music_cards_view2.png)
 
 ## ✨ Features
 
@@ -24,7 +24,7 @@ Playing video
 In the Music Cards View only stars are shown. You can adjust the icon to any icon you want in the code.
 
 Playing video
-<img src="./assets/music_cards_view_settings.png" width="70%">
+![screenshot of the settings](./assets/music_cards_view_settings.png)
 
 ## 📋 Required Columns
 
@@ -54,8 +54,7 @@ The following columns are necessary inside your view. If you do not add them, th
 | `Ratings`         | Ratings          |
 | `RatedBy`         | Rated By         |
 
-<img src="./assets/music_cards_view_settings2.png" width="70%">
-
+![screenshot of the settings](./assets/music_cards_view_settings2.png)
 
 ## 🧩 Column Formatting: YouTubeCode
 
@@ -118,6 +117,7 @@ Version|Date|Comments
 
 
 ---
+
 
 
 

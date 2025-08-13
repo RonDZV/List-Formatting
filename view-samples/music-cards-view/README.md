@@ -3,7 +3,7 @@
 This view formatting transforms your SharePoint list into a vibrant music discovery board. Employees can recommend songs via YouTube, listen to each other's picks, and vote on their favorites. It's a fun and engaging way to share musical tastes across the organization.
 
 Overview of Music Cards
-<img src="./assets/music_cards_view.png" width="70%">
+![screenshot of the sample](./assets/music_cards_view.png)
 
 Playing video
 <img src="./assets/music_cards_view2.png" width="70%">
@@ -118,5 +118,6 @@ Version|Date|Comments
 
 
 ---
+
 
 
